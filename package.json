@@ -1,8 +1,9 @@
 {
+  "home":"http://Akanimorex.github.io/seasonSuggest",
   "name": "weather",
   "version": "0.1.0",
   "private": true,
-  "home":"http://Akanimorex.github.io/seasonSuggest",
+  
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
